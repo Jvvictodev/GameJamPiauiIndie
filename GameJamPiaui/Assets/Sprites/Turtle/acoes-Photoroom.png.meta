@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 241ba95b5c1e28849a5add61d12cd998
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9066476541233284379
+    second: acoes-Photoroom_0
+  - first:
+      213: 7071678448815252082
+    second: acoes-Photoroom_1
+  - first:
+      213: 2562449631840704556
+    second: acoes-Photoroom_2
+  - first:
+      213: -6092964231933504607
+    second: acoes-Photoroom_3
+  - first:
+      213: 5132480864216511576
+    second: acoes-Photoroom_4
+  - first:
+      213: 1756682981852001486
+    second: acoes-Photoroom_5
+  - first:
+      213: 5752697494957164142
+    second: acoes-Photoroom_6
+  - first:
+      213: -3565061943287424654
+    second: acoes-Photoroom_7
+  - first:
+      213: 3770152989719226100
+    second: acoes-Photoroom_8
+  - first:
+      213: 3071612096263382874
+    second: acoes-Photoroom_9
+  - first:
+      213: -7669434257665326650
+    second: acoes-Photoroom_10
+  - first:
+      213: -3601628813621061291
+    second: acoes-Photoroom_11
+  - first:
+      213: -4288645142104208202
+    second: acoes-Photoroom_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: acoes-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 651
+        width: 236
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b154f94c06892dd70800000000000000
+      internalID: 9066476541233284379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acoes-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 651
+        width: 308
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2722b63f416a32260800000000000000
+      internalID: 7071678448815252082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acoes-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 651
+        width: 276
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2812bc1d56af8320800000000000000
+      internalID: 2562449631840704556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acoes-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 651
+        width: 284
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3517e1051717ba0800000000000000
+      internalID: -6092964231933504607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acoes-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 331
+        width: 204
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8547d18272c3a3740800000000000000
+      internalID: 5132480864216511576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acoes-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 340
+        width: 252
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4334c5dddf06810800000000000000
+      internalID: 1756682981852001486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acoes-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 500
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66833f74efa5df40800000000000000
+      internalID: 5752697494957164142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acoes-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 340
+        width: 229
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279d6141d0b568ec0800000000000000
+      internalID: -3565061943287424654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acoes-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 331
+        width: 180
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f667154b26425430800000000000000
+      internalID: 3770152989719226100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acoes-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 27
+        width: 196
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57629d6dee80aa20800000000000000
+      internalID: 3071612096263382874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acoes-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 27
+        width: 244
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c185a35d22b09590800000000000000
+      internalID: -7669434257665326650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acoes-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 27
+        width: 267
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5591e4f1da1740ec0800000000000000
+      internalID: -3601628813621061291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acoes-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 27
+        width: 268
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc8c2927fbab74c0800000000000000
+      internalID: -4288645142104208202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9a3bda6ead50b794da90970342d01b95
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      acoes-Photoroom_0: 9066476541233284379
+      acoes-Photoroom_1: 7071678448815252082
+      acoes-Photoroom_10: -7669434257665326650
+      acoes-Photoroom_11: -3601628813621061291
+      acoes-Photoroom_12: -4288645142104208202
+      acoes-Photoroom_2: 2562449631840704556
+      acoes-Photoroom_3: -6092964231933504607
+      acoes-Photoroom_4: 5132480864216511576
+      acoes-Photoroom_5: 1756682981852001486
+      acoes-Photoroom_6: 5752697494957164142
+      acoes-Photoroom_7: -3565061943287424654
+      acoes-Photoroom_8: 3770152989719226100
+      acoes-Photoroom_9: 3071612096263382874
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

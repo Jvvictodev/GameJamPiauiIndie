@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: a100444958bf2e24aab7aece250f3d07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 759381774709353600
+    second: assasinRabitDeath_0
+  - first:
+      213: -1329024633665306436
+    second: assasinRabitDeath_1
+  - first:
+      213: -6125928128863133595
+    second: assasinRabitDeath_2
+  - first:
+      213: -5902313047041480384
+    second: assasinRabitDeath_3
+  - first:
+      213: 723084824773305653
+    second: assasinRabitDeath_4
+  - first:
+      213: 7765618587408718412
+    second: assasinRabitDeath_5
+  - first:
+      213: 8331659106303989106
+    second: assasinRabitDeath_6
+  - first:
+      213: -7468726248597737619
+    second: assasinRabitDeath_7
+  - first:
+      213: -5987559037632894522
+    second: assasinRabitDeath_8
+  - first:
+      213: 4615482633955283240
+    second: assasinRabitDeath_9
+  - first:
+      213: -2662244633542254444
+    second: assasinRabitDeath_10
+  - first:
+      213: -5251673025664463845
+    second: assasinRabitDeath_11
+  - first:
+      213: 4457833157559997842
+    second: assasinRabitDeath_12
+  - first:
+      213: 3626448023912174508
+    second: assasinRabitDeath_13
+  - first:
+      213: 1140703701623443564
+    second: assasinRabitDeath_14
+  - first:
+      213: 6206600193712267822
+    second: assasinRabitDeath_15
+  - first:
+      213: 7745162875210718635
+    second: assasinRabitDeath_16
+  - first:
+      213: 4116935730301772738
+    second: assasinRabitDeath_17
+  - first:
+      213: -8820604514211961891
+    second: assasinRabitDeath_18
+  - first:
+      213: -9108503490176673449
+    second: assasinRabitDeath_19
+  - first:
+      213: -8428184276840973780
+    second: assasinRabitDeath_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: assasinRabitDeath_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 279
+        width: 197
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ce47263bdd98a00800000000000000
+      internalID: 759381774709353600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 431
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0c2ac132b5e8de0800000000000000
+      internalID: -1329024633665306436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 274
+        width: 151
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5602a87c2d45cfaa0800000000000000
+      internalID: -6125928128863133595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_3
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 270
+        width: 219
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04960f53e85c61ea0800000000000000
+      internalID: -5902313047041480384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 422
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535a61b21d9e80a00800000000000000
+      internalID: 723084824773305653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4adaa316f405cb60800000000000000
+      internalID: 7765618587408718412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 405
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275d5ec60dfff9370800000000000000
+      internalID: 8331659106303989106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_7
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 283
+        width: 248
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f22b34c01c95890800000000000000
+      internalID: -7468726248597737619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 380
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9263a57cae7eca0800000000000000
+      internalID: -5987559037632894522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 296
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82193ef600d7d0040800000000000000
+      internalID: 4615482633955283240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 282
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49026886c9ecd0bd0800000000000000
+      internalID: -2662244633542254444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 9
+        width: 181
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cc4cc253f4e17b0800000000000000
+      internalID: -5251673025664463845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295525063a76ddd30800000000000000
+      internalID: 4457833157559997842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 135
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3d3b5934bb35230800000000000000
+      internalID: 3626448023912174508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 9
+        width: 163
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601d3119f794df00800000000000000
+      internalID: 1140703701623443564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 9
+        width: 236
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2227110ef5422650800000000000000
+      internalID: 6206600193712267822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 106
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad5a7079985c7b60800000000000000
+      internalID: 7745162875210718635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c320c7fb3b422930800000000000000
+      internalID: 4116935730301772738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_18
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 22
+        width: 236
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3603a8deae69580800000000000000
+      internalID: -8820604514211961891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 9
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7591d98a558189180800000000000000
+      internalID: -9108503490176673449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assasinRabitDeath_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a7c5dfd03190b80800000000000000
+      internalID: -8428184276840973780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6eea894280caeba4b889fc2e82cec43a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      assasinRabitDeath_0: 759381774709353600
+      assasinRabitDeath_1: -1329024633665306436
+      assasinRabitDeath_10: -2662244633542254444
+      assasinRabitDeath_11: -5251673025664463845
+      assasinRabitDeath_12: 4457833157559997842
+      assasinRabitDeath_13: 3626448023912174508
+      assasinRabitDeath_14: 1140703701623443564
+      assasinRabitDeath_15: 6206600193712267822
+      assasinRabitDeath_16: 7745162875210718635
+      assasinRabitDeath_17: 4116935730301772738
+      assasinRabitDeath_18: -8820604514211961891
+      assasinRabitDeath_19: -9108503490176673449
+      assasinRabitDeath_2: -6125928128863133595
+      assasinRabitDeath_20: -8428184276840973780
+      assasinRabitDeath_3: -5902313047041480384
+      assasinRabitDeath_4: 723084824773305653
+      assasinRabitDeath_5: 7765618587408718412
+      assasinRabitDeath_6: 8331659106303989106
+      assasinRabitDeath_7: -7468726248597737619
+      assasinRabitDeath_8: -5987559037632894522
+      assasinRabitDeath_9: 4615482633955283240
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
